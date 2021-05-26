@@ -1,0 +1,1 @@
+*A movies app done for training JS skills !
